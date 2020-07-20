@@ -30,6 +30,6 @@ Em seguida use o react native CLI para iniciar o server: react-native start
 
 O app pode ser visto nas imagens abaixo:
 
-<img src="https://i.ibb.co/2svn6hG/app2.jpg">
-<img src="https://i.ibb.co/NWjc4Mt/app1.jpg">
-<img src="https://i.ibb.co/3sfwsvP/app3.jpg"> 
+<img src="https://i.ibb.co/2svn6hG/app2.jpg" width="400px">
+<img src="https://i.ibb.co/NWjc4Mt/app1.jpg" width="400px">
+<img src="https://i.ibb.co/3sfwsvP/app3.jpg" width="400px"> 
