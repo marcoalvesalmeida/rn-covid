@@ -27,3 +27,9 @@ Use o NPM para instalar as dependências necessárias: npm install
 Em seguida use o react native CLI para instalar o app no dispositivo ou emulador: react-native run-android (Para Android) ou react-native run-ios (Para IOS)
 
 Em seguida use o react native CLI para iniciar o server: react-native start
+
+O app pode ser visto nas imagens abaixo:
+
+<img src="https://ibb.co/GC2zhqn">
+<img src="https://ibb.co/Tb4vT29">
+<img src="https://ibb.co/RSh1SNJ"> 

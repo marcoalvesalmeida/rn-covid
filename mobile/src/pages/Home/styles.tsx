@@ -9,7 +9,7 @@ export default StyleSheet.create({
     imgTop: {
         width: 200,
         height: 180,
-        top: -25,
+        top: -75,
         left: -170
     },
     imgBottom: {
