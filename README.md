@@ -1,5 +1,11 @@
 App em react native que consome a api Covid-19 Brazil API para mostrar o número de casos em todos os estados do Brasil.
 
+Informações de acesso:
+
+Email: <strong>admin@admin.com</strong>
+
+Senha: <strong>admin</strong>
+
 O projeto está dividido em dois diretórios:
 
 mobile - Aplicação utilizando o expo e disponibilidade através do link: https://expo.io/@marcoalvesalmeida/mobile
@@ -10,9 +16,9 @@ Clone o repositório
 
 Navegue até o repositório mobile
 
-Use o NPM para instalar as dependências necessárias: npm install
+Use o NPM para instalar as dependências necessárias: <strong>npm install</strong>
 
-Para executar o projeto use: npm start
+Para executar o projeto use: <strong>npm start</strong>
 
 eject - Aplicação ejetada para react native project
 
@@ -22,11 +28,11 @@ Com o repositório já clonado
 
 Navegue até o repositório eject
 
-Use o NPM para instalar as dependências necessárias: npm install
+Use o NPM para instalar as dependências necessárias: <strong>npm install</strong> 
 
-Em seguida use o react native CLI para instalar o app no dispositivo ou emulador: react-native run-android (Para Android) ou react-native run-ios (Para IOS)
+Em seguida use o react native CLI para instalar o app no dispositivo ou emulador: <strong>react-native run-android</strong> (Para Android) ou <strong>react-native run-ios</strong> (Para IOS)
 
-Em seguida use o react native CLI para iniciar o server: react-native start
+Em seguida use o react native CLI para iniciar o server: <strong>react-native start</strong>
 
 O app pode ser visto nas imagens abaixo:
 
