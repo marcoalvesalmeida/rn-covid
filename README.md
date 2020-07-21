@@ -1,6 +1,6 @@
 App em react native que consome a api Covid-19 Brazil API para mostrar o número de casos em todos os estados do Brasil.
 
-Informações de acesso:
+Informações de acesso (Usar na tela de login):
 
 Email: <strong>admin@admin.com</strong>
 
@@ -8,7 +8,7 @@ Senha: <strong>admin</strong>
 
 O projeto está dividido em dois diretórios:
 
-mobile - Aplicação utilizando o expo e disponibilidade através do link: https://expo.io/@marcoalvesalmeida/mobile
+mobile - Aplicação utilizando o expo. Para usar a aplicação baixe o app "Expo" e escanei o qrcode no link: https://expo.io/@marcoalvesalmeida/rnet
 
 Para iniciar o projeto pela linha de comando siga os seguintes passos:
 
